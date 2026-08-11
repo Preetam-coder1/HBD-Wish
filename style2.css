@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Titan+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+*{
+    margin:0;
+    padding:30px;
+    background:#ffe6f0;
+    font-family:Arial,sans-serif;
+}
+
+h1{
+    text-align:center;
+    color:#ff2d75;
+}
+
+.gallery{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:20px;
+    margin-top:30px;
+}
+
+.gallery img{
+    width:100%;
+    height:300px;
+    object-fit:cover;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.3);
+    transition:.3s;
+}
+
+.gallery img:hover{
+    transform:scale(1.05);
+}
+
+.back{
+    display:inline-block;
+    margin-bottom:20px;
+    padding:10px 20px;
+    background:#ff4f8b;
+    color:white;
+    text-decoration:none;
+    border-radius:25px;
+}
+
+.back:hover{
+    background:#ff2d6f;
+}
