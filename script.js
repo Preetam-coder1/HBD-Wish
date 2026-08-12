@@ -177,7 +177,7 @@ $(".close").on("click", function(){
 
     document.querySelector("#heart__letter").classList.remove("animationOp");
 
-    document.querySelector(".love__img").classList.remove("animationOp");
+    
 
     document.querySelector("#mewmew").classList.remove("animationOp");
 
