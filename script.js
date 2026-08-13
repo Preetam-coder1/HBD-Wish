@@ -1,6 +1,6 @@
 let datetxt = "16th August 2026";
 
-let datatxtletter = "Hello Ji, Kaise hou aap? Today, I wish you all the best, lots of health, and lots of joy.And always stay awesome as you are. Stay strong and safe, will always be there for you. I hope we will celebrate many more birthdays like this together. Take onkgula Valobasha. Happy birthday to you.💕";
+let datatxtletter = "Hello Ji, Kaise hou aap? Today, I wish you all the best, lots of health, and lots of joy.And always stay awesome as you are. Stay strong and safe, will always be there for you. I hope we will celebrate many more birthdays like this together. Take onkgula Valobasha from this irritating normal guy. Happy birthday to you.💕";
 
 let titleLetter = "Dear Friend";
 
